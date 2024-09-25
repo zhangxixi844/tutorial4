@@ -6,6 +6,6 @@ public class testSubtraction {
     //Calc c = new Calc();
     @Test
     void subtraction() {
-        assertEquals(2, )
+        assertEquals(2, c.subtract(4,2));
     }
 }
